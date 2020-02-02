@@ -38,12 +38,12 @@
 <repository>
         <id>nexus</id>
         <name>nexus-snapshots</name>
-        <url>http://ec2-52-14-70-188.us-east-2.compute.amazonaws.com:8081/repository/java-releases/</url>
+        <url>http://ec2-18-217-117-167.us-east-2.compute.amazonaws.com:8081/repository/java-releases/</url>
     </repository>
        <snapshotRepository>
         <id>nexus</id>
         <name>nexus-snapshots</name>
-        <url>http://ec2-52-14-70-188.us-east-2.compute.amazonaws.com:8081/repository/java_snapshots/</url>
+        <url>http://ec2-18-217-117-167.us-east-2.compute.amazonaws.com:8081/repository/java_snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
